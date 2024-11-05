@@ -12,7 +12,7 @@
 Predicting whether a customer will default on his/her credit card
 This project is aimed at predicting the case of customers default payments in Taiwan. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients.
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/ssswhite007/readme/master/assets/lines/rainbow.png)
 ## 📖 Data Summary
 This research employed a binary variable, default payment (Yes = 1, No = 0), as the response variable. This study reviewed the literature and used the following 23 variables as explanatory variables:
 
@@ -78,10 +78,4 @@ After cross validation and hyperparameter tunning, XG Boost shows highest test a
 Cross validation and hyperparameter tunning certainly reduces chances of overfitting and also increases performance of model.
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## 📜 Credits
-
-Ranjit Ghadge | Data Analyst | Data Scientist | Machine Learning Engineer 
-   
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Ranjitghadge)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjit-ghadge/)
 
